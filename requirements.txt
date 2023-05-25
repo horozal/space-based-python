@@ -1,0 +1,10 @@
+# Requirements for space-based architecture project
+
+# Dependencies for the space_manager module
+
+# Dependencies for the in_memory_grid module
+
+# Testing dependencies
+
+# Documentation dependencies
+
