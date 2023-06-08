@@ -1,5 +1,5 @@
-from space_manager import SpaceManager
-from in_memory_grid import InMemoryGrid
+from space_manager.space_manager import SpaceManager
+from in_memory_grid.in_memory_grid import InMemoryGrid
 
 # Usage example
 if __name__ == '__main__':

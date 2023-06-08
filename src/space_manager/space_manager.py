@@ -1,5 +1,3 @@
-from multiprocessing import Process, Queue
-
 # Define the space-based architecture manager
 class SpaceManager:
     def start(self):
